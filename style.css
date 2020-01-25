@@ -1,0 +1,190 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    color: #1c1e21;
+
+}
+
+
+header{
+    background-color: #415e9b;
+    height: 82px;
+    border-bottom: 1px solid #133783;
+}
+
+.header-block{
+    width: 992px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.logo{
+    width: 50%;
+    float: left;
+}
+
+
+.log-in{
+    width: 50%;
+    float: left;
+
+}
+.logo img{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.header-block label{
+    color: #fff;
+    scroll-padding-top: 20px;
+}
+
+
+
+.email{
+    float: left;
+}
+.email label{
+    padding-bottom: 10px;
+}
+.emal input[type="text"]{
+    height: 20px;
+    width: 150px;
+    border: 1px solid #1d2a5b;
+
+}
+
+
+.Password{
+    float: left;
+    margin-left: 15px;
+}
+.Password label{
+    padding-bottom: 10px;
+}
+.Password input[type="text"]{
+    height: 20px;
+    width: 150px;
+    border: 1px solid #1d2a5b;
+}
+.Password a{
+    color: #8fb1d8;
+    text-decoration: none;
+       
+}
+.Login-button{
+    margin-left: 20px;
+    float: left;
+    margin-top: 20px;   
+   
+}
+
+.Login-button input[type="submit"] {
+    background: #4267b2;
+    border: 1px solid #29487d;
+    border-radius: 2px;
+    color: #fff;
+
+
+}
+.psprd a{
+    color: #fff;
+    text-decoration: none;
+   
+}
+
+.clearfix{
+    clear: both;
+}
+
+.content{
+    width: 992px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.connect{
+    margin-top: 50px;
+    float: left;
+    font-weight: bold;
+
+}
+.connect p{
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.connect img{
+    margin-top: 10px;
+    
+}
+
+.New-account{
+    float: left;
+    width: 50%;
+    padding-left: 15px;
+
+}
+.Connect-container{
+    margin-left: 10px;
+    background:linear-gradient(#fff, #d0dd3b);
+    overflow: hidden;
+} 
+
+.New-account h2{
+    font-size: 40px;
+}
+
+.New-account .first{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    
+
+
+}
+ .New-account p{
+   
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+} 
+
+#by-click{
+    margin-top: 10px;
+
+}
+
+
+.account input[type = "text"]{
+    height: 36px;
+    margin-bottom: 15px;
+    border: 1px solid #AAC9FF; 
+  
+   
+   
+}
+
+.account input[type = "password"]{
+    height: 36px;
+    margin-bottom: 15px;
+    border: 15px;
+    
+}
+
+.account input[type = "radio"]{
+    float: left;
+}
+
+.account input label{
+    float: left;
+    padding: 20px;
+}
+
+.test{
+display: inline-block;
+margin-right:10px;
+}
