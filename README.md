@@ -1,3 +1,4 @@
 # facebook-replica
-this is a facebook replica page. i used HTML and CSS only. 
-is part of homework3
+Assignment was:
+  Choose a website and recreate its HTML and CSS. Use the right container 
+  names (header, nav, etc).
